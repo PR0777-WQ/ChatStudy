@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+NAME:G NITIN KARTHIKEYAN
+ADISSSION NUMBER:212224040227
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -25,6 +26,7 @@ Client-server chat applications are software systems that enable real-time commu
 •	Faster but may result in message loss or disorder.
 ## 3. Socket Programming:
 •	Sockets:
+![38f771e0-9259-47f3-8cc4-5537a3163e25](https://github.com/user-attachments/assets/3c1491ae-ba03-40ff-8df8-13a0a0fcfdd9)
 
 •	Sockets serve as communication endpoints.
 •	Each client and the server has a socket for sending and receiving data.
@@ -41,6 +43,7 @@ Client-server chat applications are software systems that enable real-time commu
 •	Message routing may involve maintaining a list of connected users and their associated sockets.
 
 ## Architecture:
+
 ## Client-Server Model:
 Client-server chat applications typically follow the client-server model, where one entity acts as the server, managing connections and facilitating communication, and one or more entities act as clients, initiating communication with the server.
 
@@ -49,6 +52,9 @@ The choice of communication protocol is crucial. Many chat applications use TCP 
 User Authentication:
 User authentication mechanisms are essential to ensure secure and authorized access to the chat system. This can involve username-password authentication or more advanced methods like tokens.
 ## Components of Client-Server Chat Applications:
+![19a2f935-fb4c-4851-85b7-dc1023e69f3e](https://github.com/user-attachments/assets/b486da0d-1d9a-4c4b-87e7-8732e4b0a320)
+![ae9c204d-715b-42e7-8079-d35b202581fd](https://github.com/user-attachments/assets/f19edd82-1e26-4784-8dec-29f93db6f143)
+
 ## Server-Side Components:
 
 •	Socket Handling: The server manages incoming client connections using sockets, creating a separate thread or process for each connected client.
