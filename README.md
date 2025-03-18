@@ -49,6 +49,13 @@ The choice of communication protocol is crucial. Many chat applications use TCP 
 User Authentication:
 User authentication mechanisms are essential to ensure secure and authorized access to the chat system. This can involve username-password authentication or more advanced methods like tokens.
 ## Components of Client-Server Chat Applications:
+![38f771e0-9259-47f3-8cc4-5537a3163e25](https://github.com/user-attachments/assets/42d1f715-7bf2-4e2d-88ba-4b276eb10879)
+![19a2f935-fb4c-4851-85b7-dc1023e69f3e](https://github.com/user-attachments/assets/86a30923-0051-4b56-8d31-b1f1295ee088)
+![ae9c204d-715b-42e7-8079-d35b202581fd](https://github.com/user-attachments/assets/1faf4f85-3944-44d8-b16d-12e07a1f7754)
+
+
+
+
 ## Server-Side Components:
 
 •	Socket Handling: The server manages incoming client connections using sockets, creating a separate thread or process for each connected client.
